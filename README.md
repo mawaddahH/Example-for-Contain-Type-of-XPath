@@ -28,7 +28,7 @@ Add them as a library in the classpath of the project
 - _click-reight on the file project >Build path > configure Bild path > Java Build Path > Libraries > classpath > add external JARs > Apply and close_.
 
 ### Third:
-I Opened the website, then selected the four "input" HTML elements (checkbox: I am aged 18 or over.), and then add them to the code.
+I Opened the website, then selected the "input" HTML elements (checkbox: I am aged 18 or over.), and then added to the code.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48597284/181140458-c313b2e4-4668-424f-942c-9c93c864f778.png" width=80% height=80%>
